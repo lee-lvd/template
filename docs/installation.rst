@@ -1,5 +1,6 @@
 ============
 Installation
+USING PYTHON
 ============
 
 Install the package with pip::
